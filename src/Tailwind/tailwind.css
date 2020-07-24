@@ -1,8 +1,0 @@
-@tailwind base;
-
-@tailwind components;
-.textsizeIn{
-    font-size: 8rem;
-}
-
-@tailwind utilities;
